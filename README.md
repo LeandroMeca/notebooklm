@@ -1,4 +1,4 @@
-<h1>CHIP-8 Architecture and Emulator Implementation Guide</h1>
+<h1>Arquitetura do CHIP-8 e Guia de Implementação de Emulador</h1>
 
 <h2>Visão Geral</h2>
 <p>
